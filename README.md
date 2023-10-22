@@ -7,13 +7,15 @@ The project code is located in the irisdatasetproject1.py file. This file import
 STEP BY STEP OVERVIEW : 
 
 The first step in any machine learning project is to prepare the data. In this project, the data is preprocessed by performing the following steps:
+
 *Checking for Inconsistency in Data
 * EDA
 * Splitting Data
 * Machine Learning Algorithms
 * Performance Comparison of ML Algorithms
 
-  RESULTS/ANALYSIS:
+RESULTS/ANALYSIS:
+
 Once the data is preprocessed, the machine learning models are trained. In this project, three different machine learning models are trained:
 
 * Logistic Regression: A simple but effective classification algorithm. It works by fitting a logistic function to the data, which can then be used to predict the probability of each class. The accuracy was 100%.
