@@ -8,7 +8,7 @@ STEP BY STEP OVERVIEW :
 
 The first step in any machine learning project is to prepare the data. In this project, the data is preprocessed by performing the following steps:
 
-*Checking for Inconsistency in Data
+* Checking for Inconsistency in Data
 * EDA
 * Splitting Data
 * Machine Learning Algorithms
